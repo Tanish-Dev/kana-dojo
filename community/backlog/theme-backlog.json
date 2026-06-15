@@ -1299,7 +1299,9 @@
     "mainColor": "oklch(80.0% 0.085 200.0 / 1)",
     "secondaryColor": "oklch(68.0% 0.105 160.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "Malaybhai11",
+    "completedPR": 17445
   },
   {
     "id": "osaka-neon",
